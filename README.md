@@ -11,3 +11,15 @@ Algumas das perguntas que foram respondidas nesta EDA são:
 - Qual cidade é mais cara para se viver?
 - Qual cidade oferece mais imoveis para alugar, proporcionalmente ao numero de habitantes?
 - Existe correlação entre as diversas características dos imóveis e o seu preço de aluguel?
+
+## Conclusões
+
+As conclusões a que chegamos ao fim da análise foram:
+- A cidade de São Paulo possui os alugueis mais caros dentre as cidades apresentadas. Porém, Belo Horizonte acaba tendo um custo maior por ter o valor do condomínio mais alto;
+- A cidade mais barata para se viver é Porto Alegre. Entretanto, Campinas não é tão mais cara e fica perto da cidade mais rica e desenvolvida do país, podendo ser uma boa opção para se viver dependendo da situação e dos objetivos de cada pessoa;
+- São Paulo tem a maior quantidade bruta de imóveis para alugar. Todavia, proporcinalmente à quantidade de habitantes, São Paulo é a terceira cidade com menos oferta;
+- A maioria dos imóveis possui de 1 a 3 quartos, sendo que a oferta de opções com mais cômodos do que isso diminui significativamente;
+- É mais fácil encontrar imóveis que aceitam animais do que imóveis que não aceitam. Também existem bem mais imóveis não mobiliados do que mobiliados;
+- O que mais encarece o aluguel dos imoveis são a quantidade de quartos e de banheiros (mais do que a area);
+- Imoveis mobiliados tem um aluguel mais caro do que imoveis não mobiliados, em media (cerca de R$ 1000,00 de diferença). Se a pessoa planeja ficar muito tempo no imovel, talvez compense alugar um não mobiliado e usar a diferença para pagar a mobilia, que será quitada no medio prazo, enquanto a diferença no aluguel sera paga permanentemente;
+- Existe uma diferença significativa entre o aluguel de imoveis com até 3 qaurtos e aqueles com mais quartos, mas essa diferença não é tão relevante quando comparamos entre os imoveis com mais que 3 quartos.
