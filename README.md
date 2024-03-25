@@ -6,3 +6,8 @@ Os dados foram obtidos com um web crawler (o site não foi especificado) e são 
 Esperamos, ao final da análise, entender melhor como cada característica de um imóvel influencia em seus preços de aluguel, condomínio, IPTU e seguro incêndio, bem como saber quais são as características que mais aparecem nos imóveis.
 
 O dataset pode ser encontrado no link a seguir: https://www.kaggle.com/datasets/rubenssjr/brasilian-houses-to-rent
+
+Algumas das perguntas que foram respondidas nesta EDA são:
+- Qual cidade é mais cara para se viver?
+- Qual cidade oferece mais imoveis para alugar, proporcionalmente ao numero de habitantes?
+- Existe correlação entre as diversas características dos imóveis e o seu preço de aluguel?
