@@ -19,7 +19,8 @@ Algumas das perguntas que foram respondidas nesta EDA são:
 
 A título de exemplo, para a resposta da primeira pergunta apresentada anteriormente, o seguinte gráfico foi gerado:
 
-![grafico_custos](https://github.com/pedrohmjf/houses_to_rent_eda/assets/126244260/72160c50-41fc-4c27-907d-9ff67e535998)
+<img width="869" alt="grafico" src="https://github.com/pedrohmjf/houses_to_rent_eda/assets/126244260/ff3e4922-1f11-4693-965c-7129301c679a">
+
 
 Para a análise completa e outros gráficos, sugiro a leitura do notebook que está nesse repositório.
 
