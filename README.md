@@ -15,7 +15,7 @@ Algumas das perguntas que foram respondidas nesta EDA são:
 - Qual cidade oferece mais imoveis para alugar, proporcionalmente ao numero de habitantes?
 - Existe correlação entre as diversas características dos imóveis e o seu preço de aluguel?
 
-## Exemplos
+## Exemplo
 
 A título de exemplo, para a resposta da primeira pergunta apresentada anteriormente, o seguinte gráfico foi gerado:
 
